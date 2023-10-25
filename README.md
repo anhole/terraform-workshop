@@ -13,6 +13,6 @@ credentials for a provider is needed.
 
 1. [Backends](./1-backends/)
 2. [Remote State](./2-remote-state/)
-3. [Backends](./3-import/)
-4. [Backends](./4-documentation/)
-5. [Backends](./5-tools/)
+3. [Import](./3-import/)
+4. [Documentation](./4-documentation/)
+5. [Tools](./5-tools/)

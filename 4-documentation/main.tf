@@ -33,6 +33,6 @@ resource "local_file" "pet_drawing" {
       dog_name   = random_pet.dog.id
   })
 
-  filename        = "${path.module}/docs/drawing.drawio.svg"
+  filename        = "${path.module}/docs/pet_drawing.drawio.svg"
   file_permission = "0644"
 }

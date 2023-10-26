@@ -36,7 +36,7 @@ or
 
 ## Concept
 
-(Ab)use Terraform´s [https://developer.hashicorp.com/terraform/language/functions/templatefile](templatefile)
+(Ab)use Terraform´s [templatefile](https://developer.hashicorp.com/terraform/language/functions/templatefile)
 function to automatically generate documentation files. Instead of using `output` to write values to the terminal,
 generate a file with all values filled.
 

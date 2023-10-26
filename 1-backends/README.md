@@ -161,4 +161,3 @@ Notice how the workspaces manage their own resources, similar to separate states
 1. What files are modified/deleted/created when changing backends?
 2. What files needs to be modified when changing workspaces?
 3. Create a development environment with file content `I am in a development environment, amazing`
-4. Pass output between two workspaces using a file instead of Terraform output

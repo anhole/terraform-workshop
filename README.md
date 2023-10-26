@@ -16,3 +16,4 @@ credentials for a provider is needed.
 3. [Import](./3-import/)
 4. [Documentation](./4-documentation/)
 5. [Tools](./5-tools/)
+6. [Sensitiviness](./6-sensitiveness/)
